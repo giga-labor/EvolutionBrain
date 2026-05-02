@@ -26,9 +26,9 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/<ORG_OR_USER>/<REPO>"
-Repository = "https://github.com/<ORG_OR_USER>/<REPO>"
-Issues = "https://github.com/<ORG_OR_USER>/<REPO>/issues"
+Homepage = "https://github.com/giga-labor/EvolutionBrain"
+Repository = "https://github.com/giga-labor/EvolutionBrain"
+Issues = "https://github.com/giga-labor/EvolutionBrain/issues"
 
 [tool.setuptools.packages.find]
 include = ["app*"]

@@ -1,4 +1,5 @@
 # EvoBrain Zero
+[![CI](https://github.com/giga-labor/EvolutionBrain/actions/workflows/ci.yml/badge.svg)](https://github.com/giga-labor/EvolutionBrain/actions/workflows/ci.yml)
 
 EvoBrain Zero e una piattaforma cognitiva locale basata su FastAPI + SQLAlchemy, progettata come base per un "secondo cervello" esterno, tracciabile e controllabile.
 
